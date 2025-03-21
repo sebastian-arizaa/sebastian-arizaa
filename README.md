@@ -2,4 +2,4 @@
 
 ## Bienvenido a mi perfil de GitHub
 
-Aquí encontrarás proyectos interesantes y en constante evolución. ¡Gracias por visitar!
+¡Gracias por visitar!
